@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#Written by Mannabu Nohara
      
 exec 2> /tmp/setup_noha.log
      
